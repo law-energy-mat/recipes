@@ -1,6 +1,6 @@
 # Ingredients 
 -peas
--onions
+-sprting onions
 -potato
 #Instructions
 
